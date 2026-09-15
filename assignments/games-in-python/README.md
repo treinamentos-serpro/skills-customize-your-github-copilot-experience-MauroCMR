@@ -1,11 +1,11 @@
 
-# 📘 Atividade: Jogo da Forca
+# 📘 Assignment: Hangman Game
 
-## 🎯 Objetivo
+## 🎯 Objective
 
 Construa o clássico jogo de adivinhar palavras usando strings, loops e entrada de dados do usuário em Python.
 
-## 📝 Tarefas
+## 📝 Tasks
 
 ### 🛠️ Implementar o Jogo da Forca
 
