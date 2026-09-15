@@ -1,4 +1,3 @@
-
 # 📘 Assignment: Hangman Game
 
 ## 🎯 Objective
@@ -7,7 +6,7 @@ Construa o clássico jogo de adivinhar palavras usando strings, loops e entrada 
 
 ## 📝 Tasks
 
-### 🛠️ Implementar o Jogo da Forca
+### 🛠️ Implement the Hangman Game
 
 #### Descrição
 Crie um jogo da Forca onde o jogador adivinhe letras para revelar uma palavra oculta antes de esgotar as tentativas.
